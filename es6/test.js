@@ -14,6 +14,6 @@ function say({subject, verb, object}) {
 }
 
 //es6 func : for .. of
-for (let s of sentences){
+for (let s of sentences) {
     say(s);
 }
