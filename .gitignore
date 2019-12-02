@@ -1,0 +1,15 @@
+#npm 디버그 로그
+npm-debug.log*
+
+#프로젝트 의존성
+node_modules
+
+#macOS 폴더속성
+.DS_Store
+
+#임시파일
+*.tmp
+*~
+
+#webstorm
+.idea
