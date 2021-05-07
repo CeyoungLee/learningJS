@@ -19,7 +19,7 @@
   "homepage": "https://github.com/CeyoungLee/learningJS#readme",
   "dependencies": {
     "gulp-sourcemaps": "^2.6.5",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@babel/core": "^6.0.0-bridge.1",
